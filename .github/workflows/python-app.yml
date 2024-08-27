@@ -29,4 +29,4 @@ jobs:
         pip install matplotlib numpy pandas scikit-learn
     - name: Python application
       run: |
-        python ml_algo.py
+        python 1.py
